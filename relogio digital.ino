@@ -1,5 +1,3 @@
-//ALUNOS: CARLOS DANIEL , MARIA EDUARDA, MARIA ALICE - PROF: VAGNER - 30/06/2022
-
 //================================= DISPLAY =================================//
 const byte Numbers[] = { //CONFIGURA OS NUMEROS
   0xC0,
